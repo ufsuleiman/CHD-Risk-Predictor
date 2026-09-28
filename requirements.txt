@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+shap
+eli5
+joblib
+warnings
+dtale
+ydata_profiling
+autoviz_Autoviz_class
